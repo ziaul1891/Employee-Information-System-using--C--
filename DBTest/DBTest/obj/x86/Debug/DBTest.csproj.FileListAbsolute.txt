@@ -1,0 +1,24 @@
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\bin\Debug\DBTest.exe
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.Form1.resources
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.Form2.resources
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.Form3.resources
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.Form4.resources
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.Properties.Resources.resources
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.csproj.GenerateResource.Cache
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.pdb
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.exe
+C:\Users\Mishu\Documents\Visual Studio 2010\Projects\DBTest\DBTest\obj\x86\Debug\DBTest.csprojResolveAssemblyReference.cache
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.exe
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.pdb
+G:\DBTest\DBTest\bin\Debug\DBTest.exe
+G:\DBTest\DBTest\bin\Debug\DBTest.pdb
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.Properties.Resources.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.csproj.GenerateResource.Cache
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.csprojResolveAssemblyReference.cache
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.MainMenu.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.Admin_login.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.Admin_generalinfo.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.ChangePassword.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.Admin_workinfo.resources
+G:\DBTest\DBTest\obj\x86\Debug\DBTest.Menu_after_admin_login.resources
